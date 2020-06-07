@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\emilp\source\repos\Project\Project\SortedMapIterator.h(21,61): error C2760: syntax error: unexpected token ';', expected '{'
+C:\Users\emilp\source\repos\Project\Project\SortedMapIterator.h(25): message : see reference to class template instantiation 'SortedMapIterator<K,V>' being compiled
+C:\Users\emilp\source\repos\Project\Project\SortedMapIterator.h(21,1): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  SortedMap.cpp
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(30,2): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(43,10): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(67,2): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(67,25): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(74,6): error C2065: 'root': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(74,6): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(77,21): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,5): error C2988: unrecognizable template declaration/definition
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,5): error C2143: syntax error: missing ';' before '*'
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,17): error C2065: 'K': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,20): error C2065: 'V': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,7): error C2923: 'SortedMap': 'K' is not a valid template type argument for parameter 'K'
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,7): error C2923: 'SortedMap': 'V' is not a valid template type argument for parameter 'V'
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,31): error C2065: 'K': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,34): error C2065: 'key': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,39): error C2065: 'V': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,42): error C2065: 'value': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,56): error C2065: 'node': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,5): error C2470: 'SortedMap<K,V>::insert': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(81,5): error C2072: 'SortedMap<K,V>::insert': initialization of a function
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(82,1): error C2988: unrecognizable template declaration/definition
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(82,1): error C2059: syntax error: '<end Parse>'
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(82,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(82,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(103,9): error C2065: 'root': undeclared identifier
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(103,9): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(123,2): error C3861: 'root': identifier not found
+C:\Users\emilp\source\repos\Project\Project\SortedMap.cpp(123,28): error C3861: 'root': identifier not found
+  SortedMapIterator.cpp
+C:\Users\emilp\source\repos\Project\Project\SortedMapIterator.h(21,61): error C2760: syntax error: unexpected token ';', expected '{'
+C:\Users\emilp\source\repos\Project\Project\SortedMapIterator.h(25): message : see reference to class template instantiation 'SortedMapIterator<K,V>' being compiled
+C:\Users\emilp\source\repos\Project\Project\SortedMapIterator.h(21,1): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...
